@@ -6,16 +6,17 @@
 This is a CRUD app for employers to keep track of employees. It uses inquirer to get the data for the different functionalities.
 
 ## Link
-Repo link: https://github.com/mmcginley32/employeeTracker
+Repo link: https://github.com/mmcginley/employeeTracker
 
 ## Author
-Mason McGinley
+Mason McGinely
 
 ## Tech Used
 JavaScript, jQuery, ES6, Node.js, inquirer, mysql, console.table
 
 ## Table of Contents
-  * [Example](#example)
+* [Example](#example)
+  
   
   * [Installation](#installation)
   
@@ -25,11 +26,11 @@ JavaScript, jQuery, ES6, Node.js, inquirer, mysql, console.table
   
   * [Tests](#tests)
   
+  
+    
 
 ## Example
-![example](./assets/employeeTracker.gif)  
-
-
+![example](./assets/employeeTracker.gif)
 
 ## Installation
 To install the necessary denpendencies, run the following command:
@@ -40,7 +41,7 @@ npm i
 ## Usage
 * Fork it
 * Clone it to your computer
-* run "node employee.js" in the terminal
+* run "node index.js" in the terminal
 
 ## License
 The license for this project is: *MIT* ©  2020 Mason McGinley
