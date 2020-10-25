@@ -15,6 +15,7 @@ Mason McGinley
 JavaScript, jQuery, ES6, Node.js, inquirer, mysql, console.table
 
 ## Table of Contents
+  * [Example](#example)
   
   * [Installation](#installation)
   
@@ -25,7 +26,8 @@ JavaScript, jQuery, ES6, Node.js, inquirer, mysql, console.table
   * [Tests](#tests)
   
 
-    
+## Example
+![example](./assets/employeeTracker.gif)  
 
 
 
